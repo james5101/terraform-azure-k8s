@@ -1,0 +1,8 @@
+name: azurerm-vm
+title: InSpec Profile
+maintainer: james.noonan@contino.io 
+copyright: james.noonan@contino.io
+copyright_email: james.noonan@contino.io
+license: Apache-2.0
+summary: azurevm
+version: 0.1.0
